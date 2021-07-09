@@ -24,3 +24,5 @@ Have a question? Join our discussion board:
 https://github.com/MatrixAI/Polykey/discussions
 
 Want to learn the theory of secret management? Or how to start using Polykey? Check out our wiki: https://github.com/MatrixAI/Polykey/wiki
+
+See our website https://polykey.io for more details!
