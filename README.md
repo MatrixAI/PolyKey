@@ -12,13 +12,15 @@ Polykey runs on distributed keynodes referred to as "nodes". Any computing syste
 
 This is the master-project for Polykey in order to have one place for discussions and a wiki for educating the world on the theory of secrets and secrets management.
 
-Our subprojects:
+## Subprojects
 
 * [js-polykey](https://github.com/MatrixAI/js-polykey) - The core library and CLI of Polykey
 * [Polykey-Desktop](https://github.com/MatrixAI/Polykey-Desktop) - Polykey Desktop (Windows, Mac, Linux) application
 * [Polykey-Mobile](https://github.com/MatrixAI/Polykey-Mobile) - Polykey Mobile (iOS & Android) Application
 
+Have a bug or a feature-request? Please submit it the issues of the relevant subproject above.
+
 Have a question? Join our discussion board: 
 https://github.com/MatrixAI/Polykey/discussions
 
-Want to learn the theory of secret management? Check out our wiki: https://github.com/MatrixAI/Polykey/wiki
+Want to learn the theory of secret management? Or how to start using Polykey? Check out our wiki: https://github.com/MatrixAI/Polykey/wiki
